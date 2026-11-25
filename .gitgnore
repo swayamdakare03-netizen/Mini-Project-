@@ -1,0 +1,38 @@
+.venv/
+.venv-1/
+venv/
+__pycache__/
+*.py[cod]
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Personal evidence files
+evidence/
+*.mkv
+*.mp4
+*.avi
+*.jpg
+*.jpeg
+*.png
+
+# Generated reports
+reports/
+*.pdf
+
+# Build files
+build/
+dist/
+*.spec
+
+# Python notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# macOS and editor files
+.DS_Store
+.vscode/
+
+test_evidence.txt
